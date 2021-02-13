@@ -1,0 +1,38 @@
+body{ 
+        background-color: #1bdab2;
+        text-align: center;
+}
+
+h1{ 
+        font-family: fantasy ;
+        font-size: 60px;
+        color: #d8ecda;
+}
+
+table{
+        border-collapse: collapse;
+        bottom: 0px; 
+        width: 500px;
+        height: 500px;
+}
+
+.line1{
+        border-right: 10px solid #91ec99;
+        border-bottom: 10px solid #91ec99;
+}
+
+.line2{border-right: 10px solid #91ec99;}
+
+.line3{border-bottom: 10px solid #91ec99;}
+
+.TableCen{margin-left: 500px;}
+
+#iwantwin{
+        font-family: fantasy ;
+        text-align: center;
+        color: #d8ecda;
+        font-size: 45px;
+        padding-top: 8px;
+}
+
+
